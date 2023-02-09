@@ -14,7 +14,7 @@
 
 [7. Clustering 1 - Cars Dataset](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/Clustering%201%20-%20Cars%20dataset)
 
-[8. Frozen Lake RL](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/Frozen%20Lake%20RL)
+[8. FIFA Analysis](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/FIFA%20Analysis)
 
 [9. Frozen Lake RL](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/Frozen%20Lake%20RL)
 
