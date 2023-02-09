@@ -16,7 +16,7 @@
 
 [8. FIFA Analysis](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/FIFA%20Analysis)
 
-[9. Frozen Lake RL](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/Frozen%20Lake%20RL)
+[9. PCA Project](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/PCA%20Project)
 
 [10. Frozen Lake RL](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/Frozen%20Lake%20RL)
 
