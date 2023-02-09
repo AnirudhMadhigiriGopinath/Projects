@@ -10,7 +10,7 @@
 
 [5. Frozen Lake RL](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/Frozen%20Lake%20RL)
 
-[6. Frozen Lake RL](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/Frozen%20Lake%20RL)
+[6. Classification 1 - Blood Transfusion](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/Classification%201%20-%20Blood%20Transfusion)
 
 [7. Frozen Lake RL](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/Frozen%20Lake%20RL)
 
