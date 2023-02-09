@@ -6,4 +6,6 @@
 
 [3. Product Fault Detection](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/Product%20Fault%20Detection)
 
-[3. Argument Classification](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/Argument%20Classification)
+[4. Argument Classification](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/Argument%20Classification)
+
+[5. Frozen Lake RL](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/Frozen%20Lake%20RL)
