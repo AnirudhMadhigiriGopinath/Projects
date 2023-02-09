@@ -18,6 +18,6 @@
 
 [9. PCA Project](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/PCA%20Project)
 
-[10. Frozen Lake RL](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/Frozen%20Lake%20RL)
+[10. Time Series Forecasting](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/Time%20Series%20Forecasting)
 
 [11. Frozen Lake RL](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/Frozen%20Lake%20RL)
