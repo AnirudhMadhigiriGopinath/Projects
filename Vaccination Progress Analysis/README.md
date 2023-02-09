@@ -10,3 +10,6 @@ Progress of Covid-19 Vaccinations Worldwide:
 
 **Use Case 4)** How are the vaccination progress and the number of positive cases, deaths etc. linked in the United States?
 
+Please run the code to see the reults or download the html files to know the approach and results.
+
+To solve the **Use case 1** I have used SARIMAX model to forecast the vaccinations and Clustering to solve **Use case 3**.
