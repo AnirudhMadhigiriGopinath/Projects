@@ -1,7 +1,7 @@
 # Tasks
 
 The primary dataset which is a Parquet file related to corn yield, i concentrated on predicting the area harvested.
-I have used regression algorithms to predict the area harvested every year based on the feature.
+I have used regression algorithms to predict the area harvested every year based on the corn features.
 
 The features required to forecast the area harvesed are average tenmperature, cooling degree in days, heating degree in days, and precipitation. There features are secondary datasets.
 
