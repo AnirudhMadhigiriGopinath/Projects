@@ -21,3 +21,5 @@
 [10. Time Series Forecasting](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/Time%20Series%20Forecasting)
 
 [11. Vaccination Progress Analysis](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/Vaccination%20Progress%20Analysis)
+
+[12. Time Series Forecasting 2](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/Time%20Series%20Forecasting%202)
