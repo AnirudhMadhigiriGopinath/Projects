@@ -1,0 +1,102 @@
+[
+   {
+      "title":"Death Note",
+      "genre":"Thriller, Psychological, Supernatural",
+      "year":2006
+   },
+   {
+      "title":"Fullmetal Alchemist: Brotherhood",
+      "genre":"Adventure, Fantasy, Military",
+      "year":2009
+   },
+   {
+      "title":"Attack on Titan",
+      "genre":"Action, Drama, Fantasy",
+      "year":2013
+   },
+   {
+      "title":"One Punch Man",
+      "genre":"Action, Comedy, Superhero",
+      "year":2015
+   },
+   {
+      "title":"My Hero Academia",
+      "genre":"Action, Comedy, Superhero",
+      "year":2016
+   },
+   {
+      "title":"Naruto",
+      "genre":"Action, Adventure, Comedy",
+      "year":2002
+   },
+   {
+      "title":"Dragon Ball Z",
+      "genre":"Action, Adventure, Fantasy",
+      "year":1989
+   },
+   {
+      "title":"Sailor Moon",
+      "genre":"Adventure, Magic, Romance",
+      "year":1992
+   },
+   {
+      "title":"Pokemon",
+      "genre":"Adventure, Comedy, Fantasy",
+      "year":1997
+   },
+   {
+      "title":"Yu-Gi-Oh!",
+      "genre":"Action, Fantasy, Game",
+      "year":2000
+   },
+   {
+      "title":"Jojo's Bizarre Adventure",
+      "genre":"Action, Adventure, Supernatural",
+      "year":2012
+   },
+   {
+      "title":"Cowboy Bebop",
+      "genre":"Action, Drama, Sci-Fi",
+      "year":1998
+   },
+   {
+      "title":"One Piece",
+      "genre":"Adventure, Comedy, Fantasy",
+      "year":1999
+   },
+   {
+      "title":"Code Geass",
+      "genre":"Action, Military, Science Fiction",
+      "year":2006
+   },
+   {
+      "title":"Gurren Lagann",
+      "genre":"Action, Adventure, Comedy",
+      "year":2007
+   },
+   {
+      "title":"Hunter x Hunter (2011)",
+      "genre":"Action, Adventure, Super Power",
+      "year":2011
+   },
+   {
+      "title":"Fate/Zero",
+      "genre":"Action, Fantasy, Thriller",
+      "year":2011
+   },
+   {
+      "title":"Psycho-Pass",
+      "genre":"Action, Police, Psychological",
+      "year":2012
+   },
+   {
+      "title":"Gintama",
+      "genre":"Action, Comedy, Historical",
+      "year":2006
+   },
+   {
+      "title":"Death Parade",
+      "genre":"Game, Psychological, Thriller",
+      "year":2015
+   }
+]
