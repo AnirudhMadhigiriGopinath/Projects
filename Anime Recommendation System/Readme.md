@@ -1,6 +1,6 @@
-# Anime Explorer
+# Anime Recommendation System
 
-Anime Explorer is a web application built with Streamlit that allows users to explore and discover anime based on genres, search for specific titles, and receive recommendations. The app leverages the Jikan API to fetch anime data and uses machine learning techniques for recommendations.
+Anime Recommendation System is a web application built with Streamlit that allows users to explore and discover anime based on genres, search for specific titles, and receive recommendations. The app leverages the Jikan API to fetch anime data and uses machine learning techniques for recommendations.
 
 ## Features
 
