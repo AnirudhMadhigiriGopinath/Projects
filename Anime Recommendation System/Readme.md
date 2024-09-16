@@ -25,3 +25,55 @@ Anime Explorer is a web application built with Streamlit that allows users to ex
    ```bash
    git clone <repository-url>
    cd <repository-directory>
+Create a Virtual Environment
+
+It's recommended to use a virtual environment to manage dependencies. Create and activate a virtual environment:
+
+bash
+Copy code
+python -m venv venv
+source venv/bin/activate  # On Windows use venv\Scripts\activate
+Install Dependencies
+
+Install the required Python packages using pip:
+
+bash
+Copy code
+pip install -r requirements.txt
+If requirements.txt is not provided, you can manually install the necessary packages:
+
+bash
+Copy code
+pip install streamlit requests pandas scikit-learn
+Usage
+Start the Streamlit Server
+
+Run the Streamlit application using the following command:
+
+bash
+Copy code
+streamlit run anime_explorer.py
+Interact with the Application
+
+Select a Genre: Use the dropdown to select a genre and view top animes.
+Search for an Anime: Enter an anime title in the search box and click "Search" to find specific animes.
+View Details: Click on an anime to view detailed information.
+Get Recommendations: After viewing details, recommendations based on genre similarity will be displayed.
+Code Overview
+Main Components
+Data Fetching Functions: Functions to fetch animes and genres using the Jikan API.
+Display Functions: Functions to display animes and their details.
+Recommendation System: Uses TF-IDF and cosine similarity to recommend animes.
+Search Functionality: Allows users to search for animes by title.
+Key Functions
+fetch_animes_by_genre: Fetches top animes by genre.
+fetch_all_animes: Fetches a list of all animes for recommendations.
+fetch_genres: Fetches available anime genres.
+display_animes: Displays a list of animes for selection.
+display_anime_details: Shows detailed information about a selected anime.
+recommend_animes_based_on_genres: Recommends animes based on genre similarity.
+Contributing
+Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
