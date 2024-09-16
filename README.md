@@ -23,3 +23,5 @@
 [11. Vaccination Progress Analysis](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/Vaccination%20Progress%20Analysis)
 
 [12. Time series forecasting 2](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/Time%20series%20forecasting%202)
+
+[13. Anime Recommendation System]()
