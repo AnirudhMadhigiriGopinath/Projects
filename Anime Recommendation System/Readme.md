@@ -38,18 +38,18 @@ Anime Explorer is a web application built with Streamlit that allows users to ex
 
 ### Install the required Python packages using pip:
 
-   ```bash
+   bash
    pip install -r requirements.txt
-   If requirements.txt is not provided, you can manually install the necessary packages:
 
-   ```bash
+### If requirements.txt is not provided, you can manually install the necessary packages:
+
+   bash
    pip install streamlit requests pandas scikit-learn
-   Usage
-   Start the Streamlit Server
+   Start the Streamlit Server.
 
 ### Run the Streamlit application using the following command:
 
-```bash
+   bash
    streamlit run anime_explorer.py
 
 ## Interact with the Application
