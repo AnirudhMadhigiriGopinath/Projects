@@ -27,3 +27,5 @@
 [13. Anime Recommendation System](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/Anime%20Recommendation%20System)
 
 [14. Bank Marketing](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/Bank%20Marketing)
+
+[15. PowerCO EDA Analysis](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/Bank%20Marketing)
