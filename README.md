@@ -28,4 +28,4 @@
 
 [14. Bank Marketing](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/Bank%20Marketing)
 
-[15. PowerCO EDA Analysis]([https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/Bank%20Marketing](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/PowerCO_EDA))
+[15. PowerCO EDA Analysis](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/Bank%20Marketing](https://github.com/AnirudhMadhigiriGopinath/Projects/tree/main/PowerCO_EDA)
