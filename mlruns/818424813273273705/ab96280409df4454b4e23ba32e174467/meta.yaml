@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/818424813273273705/ab96280409df4454b4e23ba32e174467/artifacts
+end_time: 1741213610636
+entry_point_name: ''
+experiment_id: '818424813273273705'
+lifecycle_stage: active
+run_id: ab96280409df4454b4e23ba32e174467
+run_name: smiling-shrew-864
+run_uuid: ab96280409df4454b4e23ba32e174467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741213610413
+status: 3
+tags: []
+user_id: LENOVO
